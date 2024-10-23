@@ -1,1 +1,3 @@
-# emag-projeto-grupo-4
+# Projeto de Eletromagnetismo
+
+Transmissão de energia sem fio
